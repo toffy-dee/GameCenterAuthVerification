@@ -1,0 +1,5 @@
+# ignore folder that start with package_
+package_*
+
+# ignore .zip files
+*.zip
